@@ -1,5 +1,5 @@
 
-var baseurl="http://himanshu.medyku.com/api/";
+var baseurl="http://yourdomain.com/api/";
 // var baseurl="http://192.168.1.9/transport-backend/api/";
 var upload_url="${baseurl}upload_data";
 var login_url="${baseurl}login";
